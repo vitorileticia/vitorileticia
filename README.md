@@ -5,9 +5,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🔭 Meu nome é vitoria
+- ❤️ Futura tecnica de informatica 
+- 👯 Bons conhecimento em redes de computadores 
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
