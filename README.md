@@ -1,10 +1,5 @@
 ### Olá,Bem vindo ao meu GitHub
 
-
-**vitorileticia/vitorileticia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 👱‍♀️ Meu nome é Vitoria
 - ❤️ Futura tecnica de informatica 
 - 📒 Bons conhecimentos em redes de computadoes
