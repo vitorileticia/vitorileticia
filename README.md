@@ -9,5 +9,4 @@ Here are some ideas to get you started:
 - ❤️ Futura tecnica de informatica 
 - 📒 Bons conhecimentos em redes de computadoes
 - ✍ HTML e CSS intermediario   
-
 <a href="https://https://www.instagram.com/vitorileticia/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the- badge&logo=instagram&logoColor=white" target="_blank"></a>
