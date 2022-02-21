@@ -27,4 +27,4 @@
  
 </div>
   
-  <img width="1000" height="300" src="https://media3.giphy.com/media/eGlWh8b2oDeSuFjGM6/giphy.webp?cid=ecf05e47l9xichrjwbai1f8i4idk1ousegdeoje48pqmr565&rid=giphy.webp&ct=g"/>
+  <img width="1000" height="300" src="https://media1.giphy.com/media/QpVUMRUJGokfqXyfa1/200w.webp?cid=ecf05e4766ilnu71stmw7n8uhs0eeqrdef7uvo79j3zv73wl&rid=200w.webp&ct=g"/>
