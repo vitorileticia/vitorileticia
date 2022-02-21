@@ -1,7 +1,7 @@
 ### Olá,Bem vindo ao meu GitHub
 
 - 👱‍♀️ Meu nome é Vitoria
-- ❤️ Futura tecnica de informatica 
+- ❤️ Futura técnica de informática 
 - 📒 Bons conhecimentos em redes de computadoes
 - ✍ HTML e CSS intermediario   
 -<div align="center">
